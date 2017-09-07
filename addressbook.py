@@ -17,3 +17,4 @@ class Person:
 
     firstname = ''
     lastname = ''
+    tel = ''
